@@ -1,6 +1,6 @@
 <html lang="en"><head>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="styles10.css">
+	<link rel="stylesheet" type="text/css" href="styles.css">
 	<title>ESTANDER HTML5</title>
 </head>
 <body>
